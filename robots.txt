@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pneoursul.github.io/sitemap.html.gz
+Sitemap: https://pneoursul.github.io/app/sitemap.html.gz
+Sitemap: https://pneoursul.github.io/assets/sitemap.html.gz
+Sitemap: https://pneoursul.github.io/css/sitemap.html.gz
+Sitemap: https://pneoursul.github.io/includes/sitemap.html.gz
+Sitemap: https://pneoursul.github.io/item/sitemap.html.gz
+Sitemap: https://pneoursul.github.io/src/sitemap.html.gz
